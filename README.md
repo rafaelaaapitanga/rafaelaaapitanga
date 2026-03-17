@@ -2,7 +2,6 @@
 
 👩🏼‍💻 Computer Science student at Federal University of Pernambuco (UFPE)<br/>
 🌱 I’m currently learning about Data Science and improving myself in the area<br/>
-💜 Volunteer at [Brazilians in Tech](https://www.braziliansintech.com/), a community that aims to support women in technology<br/>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rafaela-pitanga-543342223/)
